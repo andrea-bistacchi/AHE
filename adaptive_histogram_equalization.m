@@ -1,6 +1,6 @@
 % @ 2019 by Andrea Bistacchi, distributed under the GNU AGPL v3.0 license.
 %
-% Adaptive histogram equalization in HSV color space of a collection of images stored in a directroy
+% Adaptive histogram equalization in HSV color space of a collection of images stored in a directory
 %
 % Last update by Andrea Bistacchi 28/5/2024
 
